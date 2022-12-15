@@ -1,7 +1,7 @@
 # yt2mp3
 a functional youtube 2 mp3 downloader written in python 
 
-# How to install/run
+# install / run
 
 make sure python3 & needed modules are installed;
 
