@@ -5,7 +5,9 @@ a functional youtube 2 mp3 downloader written in python
 
 make sure python3 & needed modules are installed;
 
-apt-get install python3 /n
-pip3 install pytube /n
-chmod +x yt2mp3.py /n
+```
+apt-get install python3
+pip3 install pytube
+chmod +x yt2mp3.py
 python3 yt2mp3.py
+```
